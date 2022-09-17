@@ -39,17 +39,15 @@
 /* Mapa Equipo */
 
 .mapa{
-        background: url(/img/mapa.png);
-        width: 100%;
-        height: 500px;
-    
         
+        width: 100%;
+        height: 55em;
 }
 
 #local{
 
         background-color: #f3f3f3;
-        padding-bottom: 300px;
+        padding-bottom: 100px;
         display: flex;
         justify-content: center;
 }
@@ -77,4 +75,15 @@
 
 #numeros-local p {
         margin: 0;
+}
+
+/* Contactos */
+
+#bg-contacto{
+        position: relative;
+        top: -130px;
+}
+
+#seccion-contacto{
+        background-color: #1b2a4e;
 }
