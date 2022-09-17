@@ -6,4 +6,17 @@
         #intro {
                 width: 90% !important;
         }
+
+        .servicio-fila{
+                width: 100% !important;
+        }
+}
+
+
+/* Media pantalla extra-small */
+
+@media(max-width: 576px) {
+        .icono-wrap: flex-wrap: wrap;
+        justify-content: center !important;
+
 }
