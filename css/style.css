@@ -1,5 +1,9 @@
 /* Slider de Imagenes */
 
-.carousel-inner{
-        ;
+/* Media Queries Pantalla pequeña */
+
+@media (max-width: 768px) { 
+        #intro {
+                width: 90% !important;
+        }
 }
