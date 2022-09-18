@@ -95,4 +95,20 @@
         position: relative;
 }
 
-/* Contactos Formulario */
+
+
+/* Footer */
+
+footer {
+        background: #217426;
+        min-height: 100px;;
+    }
+    footer p{
+        color:#f3f3f3;
+        text-align:center;
+    }
+    #iconos  i {
+        font-size: 26px;
+        padding: 0 8px;
+        color: white;
+    }
