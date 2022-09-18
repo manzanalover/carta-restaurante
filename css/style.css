@@ -10,6 +10,11 @@
         .servicio-fila{
                 width: 100% !important;
         }
+
+        ##bg-contacto{
+                top: -110px;
+
+        }
 }
 
 
